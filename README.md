@@ -19,7 +19,7 @@ Hover animation on player cards
 
 Background image support
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 HTML5
 
