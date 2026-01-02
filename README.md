@@ -3,7 +3,7 @@
  This project is a simple frontend web application that displays the Indian Cricket Team players for the Champions Trophy in a clean card-based UI.
 Player data is stored in JavaScript and rendered dynamically using DOM manipulation.
 
-📌 Features
+**📌 Features**
 
 Displays Indian team players in card format
 
