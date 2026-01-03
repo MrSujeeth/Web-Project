@@ -23,6 +23,6 @@ Background image support
 
 **HTML5**
 
-CSS3
+**CSS3**
 
 JavaScript (ES6)
