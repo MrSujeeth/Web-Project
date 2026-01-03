@@ -25,4 +25,4 @@ Background image support
 
 **CSS3**
 
-JavaScript (ES6)
+**JavaScript (ES6)**
