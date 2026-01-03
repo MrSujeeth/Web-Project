@@ -21,7 +21,7 @@ Background image support
 
 **🛠️ Technologies Used**
 
-HTML5
+**HTML5**
 
 CSS3
 
